@@ -73,7 +73,7 @@ This privacy policy was last updated in **January 2025**. Any future changes wil
 
 ## 🤝 Contact & Support
 
-**Developer**: Fahd Hayat  
+**Developer**: Fahad Hayat  
 **LinkedIn**: [linkedin.com/in/fahdhayat](https://www.linkedin.com/in/fahdhayat/)  
 **Support**: [coff.ee/fahadhayat](https://coff.ee/fahadhayat)
 
